@@ -115,11 +115,11 @@ with st.container():
     
 with st.container():
     st.write("---")
-    st.header("Number 1 bb niya: ")
+    st.header("Number 1 asawa niya: ")
     st.write("##")
     image_d, text_f = st.columns((1, 2))
     with text_f:
-        st.subheader("Number 1 bb niya yan")
+        st.subheader("Number 1 asawa niya yan")
         st.write(
         """
         Olats ako jan par wala yun lang olats talaga
