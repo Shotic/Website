@@ -153,3 +153,9 @@ with st.container():
     
     """
     )
+    
+st.subheader("The end")
+
+st.title("MORE:")
+
+st.write("Gusto ko lang sabihin matagal na nung nakailang araw poa na pero ang hirap sabihin na ano na nga yun basta ano uli tawag dun hmmmmmm....... waiit iisipin ko pa..........ahhh yun alam ko na..... miss na kita")
